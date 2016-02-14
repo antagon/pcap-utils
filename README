@@ -1,0 +1,8 @@
+pcap-llt
+
+List supported link-types by an INTERFACE.
+
+pcap-isrfmon
+
+Check if an INTERFACE supports a monitor mode (rfmon).
+
